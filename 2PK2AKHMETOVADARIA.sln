@@ -43,6 +43,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PZ_19new", "PZ_19new\PZ_19n
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfApp3", "..\WpfApp3\WpfApp3\WpfApp3.csproj", "{F615E819-EF4F-4A63-B251-82A80EA48CA6}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PZ_24", "..\..\WpfApp3\WpfApp3\PZ_24.csproj", "{0F8E4B2F-5EEC-4628-9CFE-DC4743897607}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{F615E819-EF4F-4A63-B251-82A80EA48CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F615E819-EF4F-4A63-B251-82A80EA48CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F615E819-EF4F-4A63-B251-82A80EA48CA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F8E4B2F-5EEC-4628-9CFE-DC4743897607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8E4B2F-5EEC-4628-9CFE-DC4743897607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8E4B2F-5EEC-4628-9CFE-DC4743897607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8E4B2F-5EEC-4628-9CFE-DC4743897607}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
